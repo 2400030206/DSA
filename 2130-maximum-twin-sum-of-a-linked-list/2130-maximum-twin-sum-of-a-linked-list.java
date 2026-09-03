@@ -11,18 +11,25 @@
 class Solution {
     public int pairSum(ListNode head) {
         ListNode temp=head;
-        List<Integer>list=new ArrayList<>();
-        while(temp!=null){
-            list.add(temp.val);
-            temp=temp.next;
+        ListNode slow=head;
+        ListNode fast=head;
+        ListNode pre=null;
+        while(fast!=null&&fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
-int sum=0;
-int n=list.size();
-int max=0;
-        for(int i=0;i<n/2;i++){
-            sum=list.get(i)+list.get(n-1-i);
-            max=Math.max(max,sum);
-        }
-        return max;
+         while(slow!=null){
+            ListNode temp1=slow.next;
+            slow.next=pre;
+            pre=slow;
+            slow=temp1;
+         }
+         int max=0;
+         while(pre!=null){
+            max=Math.max(max,head.val+pre.val);
+            head=head.next;
+            pre=pre.next;
+         }
+         return max;
     }
 }
