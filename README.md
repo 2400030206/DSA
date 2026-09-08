@@ -66,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/2400030206/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/2400030206/DSA/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
