@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/2400030206/DSA/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/2400030206/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/2400030206/DSA/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/2400030206/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/2400030206/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/2400030206/DSA/tree/master/0739-daily-temperatures) |
 | [3904-smallest-stable-index-ii](https://github.com/2400030206/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -76,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/2400030206/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/2400030206/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
