@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/2400030206/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/2400030206/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/2400030206/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/2400030206/DSA/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/2400030206/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/2400030206/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/2400030206/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/2400030206/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/2400030206/DSA/tree/master/0901-online-stock-span) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/2400030206/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/2400030206/DSA/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/2400030206/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
