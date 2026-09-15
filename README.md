@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/2400030206/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/2400030206/DSA/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/2400030206/DSA/tree/master/0496-next-greater-element-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/2400030206/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/2400030206/DSA/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/2400030206/DSA/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
