@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/2400030206/DSA/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/2400030206/DSA/tree/master/0227-basic-calculator-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/2400030206/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -160,4 +161,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/2400030206/DSA/tree/master/0735-asteroid-collision) |
+| [3498-reverse-degree-of-a-string](https://github.com/2400030206/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
