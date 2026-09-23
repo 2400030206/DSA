@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/2400030206/DSA/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/2400030206/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/2400030206/DSA/tree/master/0148-sort-list) |
+| [0844-backspace-string-compare](https://github.com/2400030206/DSA/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/2400030206/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/2400030206/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/2400030206/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/2400030206/DSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/2400030206/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/2400030206/DSA/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/2400030206/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/2400030206/DSA/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/2400030206/DSA/tree/master/0227-basic-calculator-ii) |
+| [0844-backspace-string-compare](https://github.com/2400030206/DSA/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/2400030206/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Range Minimum/Maximum Query
 |  |
@@ -161,5 +164,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/2400030206/DSA/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/2400030206/DSA/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/2400030206/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
