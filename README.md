@@ -62,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/2400030206/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/2400030206/DSA/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/2400030206/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/2400030206/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/2400030206/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/2400030206/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3904-smallest-stable-index-ii](https://github.com/2400030206/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/2400030206/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/2400030206/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/2400030206/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/2400030206/DSA/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/2400030206/DSA/tree/master/0496-next-greater-element-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/2400030206/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/2400030206/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -172,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/2400030206/DSA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/2400030206/DSA/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/2400030206/DSA/tree/master/3498-reverse-degree-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/2400030206/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/2400030206/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
