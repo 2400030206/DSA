@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/2400030206/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/2400030206/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/2400030206/DSA/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/2400030206/DSA/tree/master/0143-reorder-list) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/2400030206/DSA/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/2400030206/DSA/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/2400030206/DSA/tree/master/0227-basic-calculator-ii) |
 | [0844-backspace-string-compare](https://github.com/2400030206/DSA/tree/master/0844-backspace-string-compare) |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/2400030206/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2400030206/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
