@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/2400030206/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/2400030206/DSA/tree/master/0148-sort-list) |
 | [0844-backspace-string-compare](https://github.com/2400030206/DSA/tree/master/0844-backspace-string-compare) |
+| [0905-sort-array-by-parity](https://github.com/2400030206/DSA/tree/master/0905-sort-array-by-parity) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/2400030206/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/2400030206/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/2400030206/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/2400030206/DSA/tree/master/0739-daily-temperatures) |
+| [0905-sort-array-by-parity](https://github.com/2400030206/DSA/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/2400030206/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/2400030206/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/2400030206/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/2400030206/DSA/tree/master/0148-sort-list) |
+| [0905-sort-array-by-parity](https://github.com/2400030206/DSA/tree/master/0905-sort-array-by-parity) |
 ## Merge Sort
 |  |
 | ------- |
