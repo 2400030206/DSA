@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2400030206/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/2400030206/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/2400030206/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/2400030206/DSA/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/2400030206/DSA/tree/master/0143-reorder-list) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/2400030206/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/2400030206/DSA/tree/master/0085-maximal-rectangle) |
 | [0918-maximum-sum-circular-subarray](https://github.com/2400030206/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2400030206/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/2400030206/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/2400030206/DSA/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/2400030206/DSA/tree/master/0227-basic-calculator-ii) |
 | [0844-backspace-string-compare](https://github.com/2400030206/DSA/tree/master/0844-backspace-string-compare) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2400030206/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/2400030206/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/2400030206/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2400030206/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
