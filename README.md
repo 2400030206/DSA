@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/2400030206/DSA/tree/master/0739-daily-temperatures) |
 | [0905-sort-array-by-parity](https://github.com/2400030206/DSA/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/2400030206/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/2400030206/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/2400030206/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/2400030206/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/2400030206/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/2400030206/DSA/tree/master/0148-sort-list) |
 | [0905-sort-array-by-parity](https://github.com/2400030206/DSA/tree/master/0905-sort-array-by-parity) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/2400030206/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Merge Sort
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/2400030206/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/2400030206/DSA/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/2400030206/DSA/tree/master/0496-next-greater-element-i) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/2400030206/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/2400030206/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/2400030206/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
