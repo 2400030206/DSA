@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/2400030206/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/2400030206/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/2400030206/DSA/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/2400030206/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -223,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2400030206/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/2400030206/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/2400030206/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
