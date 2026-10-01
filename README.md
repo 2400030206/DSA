@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/2400030206/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/2400030206/DSA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/2400030206/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/2400030206/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/2400030206/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/2400030206/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/2400030206/DSA/tree/master/0735-asteroid-collision) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/2400030206/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/2400030206/DSA/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/2400030206/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/2400030206/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/2400030206/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/2400030206/DSA/tree/master/0739-daily-temperatures) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/2400030206/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/2400030206/DSA/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/2400030206/DSA/tree/master/0227-basic-calculator-ii) |
+| [0402-remove-k-digits](https://github.com/2400030206/DSA/tree/master/0402-remove-k-digits) |
 | [0844-backspace-string-compare](https://github.com/2400030206/DSA/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/2400030206/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2400030206/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/2400030206/DSA/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/2400030206/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
