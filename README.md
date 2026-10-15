@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/2400030206/DSA/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/2400030206/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/2400030206/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/2400030206/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3483-unique-3-digit-even-numbers](https://github.com/2400030206/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/2400030206/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3904-smallest-stable-index-ii](https://github.com/2400030206/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/2400030206/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2400030206/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/2400030206/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/2400030206/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Sliding Window
 |  |
 | ------- |
