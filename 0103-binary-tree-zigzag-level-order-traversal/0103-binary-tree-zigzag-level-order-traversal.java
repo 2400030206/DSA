@@ -24,7 +24,7 @@ class Solution {
         boolean flag=true;
         while(!queue.isEmpty()){
             int size=queue.size();
-            LinkedList<Integer>level=new LinkedList<>();
+            List<Integer>level=new ArrayList<>();
             
             for(int i=0;i<size;i++){
              TreeNode node=queue.poll();
